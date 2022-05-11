@@ -1,5 +1,5 @@
 # zen-go-task-java
 Home task for www.zengo.com  
-#Prerequisites
+# Prerequisites
 1) Install Java JDK
 2) Install WebDriver for chrome and java
